@@ -1,4 +1,4 @@
-<h1 align="center">I'm Avihay</h1>
+<h1 align="center">Hi, I'm Avihay👋</h1>
 <h3 align="center">A Full-stack Web Developer & IT Specialist🌎</h3>
 
 - 🔭 I’m currently working on **InstaFrame - An Instagram Next.js Clone**
